@@ -8,7 +8,7 @@ A simple Blender add-on to rename armature bones by:
 
 ## Installation
 
-1. Download the `.py` file
+1. Download the `blender_bone_rename_addon.py` file
 2. Open Blender
 3. Go to **Edit → Preferences → Add-ons**
 4. Click **Install**
